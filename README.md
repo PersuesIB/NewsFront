@@ -1,0 +1,2 @@
+# NewsFront
+OpenSource News Aggregrator
